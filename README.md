@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Aman Ullah
 
-<!--
-**amaan2t3/amaan2t3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer
+🌱 Learning DevOps & Cloud
+🚀 Building Full Stack Applications
+📍 Pakistan
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
+- PostgreSQL
+- Git
+- Docker
+
+## Connect with me
+
+Portfolio:https://portfolio-aman-beryl.vercel.app/
+LinkedIn:https://www.linkedin.com/in/amanullah-ibrahim-819335329/
+Email:amankacho0001@gmail.com
