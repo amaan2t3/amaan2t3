@@ -1,6 +1,6 @@
  <h1 align="center">Hi there, I'm Aman Ullah 👋</h1>
 
-<h3 align="center">💻 MERN Stack Developer | 🌱 Learning DevOps & Cloud | 🚀 Building Full Stack Applications</h3>
+<h3 align="center">💻 MERN Stack Developer | 🌱 Learning  AI| 🚀 Building Full Stack Applications</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full+Stack+JavaScript+Engineer;Learning+DevOps+%26+Cloud;Building+Real-World+Projects" alt="Typing SVG" />
@@ -23,7 +23,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I'm currently building **full-stack web applications** using the MERN stack
-- 🌱 I'm currently learning **DevOps & Cloud technologies**
+- 🌱 I'm currently learning **AI**
 - 💡 I enjoy turning ideas into clean, functional, and scalable products
 - 📍 Based in Pakistan
 - 📫 Reach me at **amankacho0001@gmail.com**
