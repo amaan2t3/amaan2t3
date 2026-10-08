@@ -28,7 +28,7 @@
 
 ## 🚀 Featured Projects
 
-> ✏️ *Update the STATUS, TYPE, and repo link for each — I've drafted the descriptions from what you told me, tweak the wording/features to match what you actually built.*
+ 
 
 ### 📝 Blog Web App
 **`Live`** · **`Full-Stack MERN App`**
